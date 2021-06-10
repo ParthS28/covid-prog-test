@@ -1,0 +1,10 @@
+./covid-chestxray-dataset/images/f6d980a0.jpg 0
+./covid-chestxray-dataset/images/b9673e89.jpg 0
+./covid-chestxray-dataset/images/48c4542c.jpg 0
+./covid-chestxray-dataset/images/c3829ecb.jpg 0
+./covid-chestxray-dataset/images/a8ac1969.jpg 0
+./covid-chestxray-dataset/images/90986ce4.jpg 0
+./covid-chestxray-dataset/images/16708_5_1.jpg 1
+./covid-chestxray-dataset/images/2168a917.jpg 1
+./covid-chestxray-dataset/images/19abe1f3.jpg 1
+./covid-chestxray-dataset/images/441c9cdd.jpg 1
